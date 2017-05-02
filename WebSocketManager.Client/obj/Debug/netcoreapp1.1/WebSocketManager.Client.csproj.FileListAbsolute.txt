@@ -1,0 +1,9 @@
+C:\Users\rottolia\Documents\Visual Studio 2017\Projects\SocketDemo\WebSocketManager.Client\bin\Debug\netcoreapp1.1\WebSocketManager.Client.deps.json
+C:\Users\rottolia\Documents\Visual Studio 2017\Projects\SocketDemo\WebSocketManager.Client\bin\Debug\netcoreapp1.1\WebSocketManager.Client.dll
+C:\Users\rottolia\Documents\Visual Studio 2017\Projects\SocketDemo\WebSocketManager.Client\bin\Debug\netcoreapp1.1\WebSocketManager.Client.pdb
+C:\Users\rottolia\Documents\Visual Studio 2017\Projects\SocketDemo\WebSocketManager.Client\bin\Debug\netcoreapp1.1\WebSocketManager.Common.dll
+C:\Users\rottolia\Documents\Visual Studio 2017\Projects\SocketDemo\WebSocketManager.Client\bin\Debug\netcoreapp1.1\WebSocketManager.Common.pdb
+C:\Users\rottolia\Documents\Visual Studio 2017\Projects\SocketDemo\WebSocketManager.Client\obj\Debug\netcoreapp1.1\WebSocketManager.Client.csprojResolveAssemblyReference.cache
+C:\Users\rottolia\Documents\Visual Studio 2017\Projects\SocketDemo\WebSocketManager.Client\obj\Debug\netcoreapp1.1\WebSocketManager.Client.AssemblyInfo.cs
+C:\Users\rottolia\Documents\Visual Studio 2017\Projects\SocketDemo\WebSocketManager.Client\obj\Debug\netcoreapp1.1\WebSocketManager.Client.dll
+C:\Users\rottolia\Documents\Visual Studio 2017\Projects\SocketDemo\WebSocketManager.Client\obj\Debug\netcoreapp1.1\WebSocketManager.Client.pdb
